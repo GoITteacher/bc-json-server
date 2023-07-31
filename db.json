@@ -1,139 +1,324 @@
 {
-  "books": [
+  "students": [
     {
       "id": 1,
-      "title": "The Great Gatsby",
-      "about": "A classic novel depicting the decadence of the Jazz Age in America.",
-      "author": "F. Scott Fitzgerald",
-      "price": 15.99,
-      "amount": 100,
-      "genre": "Fiction"
+      "name": "John Smith",
+      "age": 20,
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "gender": "Male"
     },
     {
       "id": 2,
-      "title": "To Kill a Mockingbird",
-      "about": "A powerful story addressing racial injustice and moral growth in the American South.",
-      "author": "Harper Lee",
-      "price": 12.49,
-      "amount": 85,
-      "genre": "Fiction"
+      "name": "Emily Johnson",
+      "age": 19,
+      "major": "Biology",
+      "gpa": 3.6,
+      "gender": "Female"
     },
     {
       "id": 3,
-      "title": "1984",
-      "about": "A dystopian novel depicting a totalitarian society and the struggle for individuality.",
-      "author": "George Orwell",
-      "price": 10.99,
-      "amount": 70,
-      "genre": "Science Fiction"
+      "name": "Michael Williams",
+      "age": 21,
+      "major": "Business Administration",
+      "gpa": 3.2,
+      "gender": "Male"
     },
     {
       "id": 4,
-      "title": "Pride and Prejudice",
-      "about": "A classic romance novel exploring themes of love, class, and societal expectations.",
-      "author": "Jane Austen",
-      "price": 9.99,
-      "amount": 95,
-      "genre": "Romance"
+      "name": "Olivia Brown",
+      "age": 20,
+      "major": "Psychology",
+      "gpa": 3.9,
+      "gender": "Female"
     },
     {
       "id": 5,
-      "title": "The Lord of the Rings",
-      "about": "An epic fantasy trilogy following the quest to destroy the One Ring.",
-      "author": "J.R.R. Tolkien",
-      "price": 24.99,
-      "amount": 50,
-      "genre": "Fantasy"
+      "name": "James Miller",
+      "age": 22,
+      "major": "Mechanical Engineering",
+      "gpa": 3.5,
+      "gender": "Male"
     },
     {
       "id": 6,
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "about": "The first book in the beloved series chronicling the journey of a young wizard.",
-      "author": "J.K. Rowling",
-      "price": 14.95,
-      "amount": 120,
-      "genre": "Fantasy"
+      "name": "Sophia Davis",
+      "age": 19,
+      "major": "English Literature",
+      "gpa": 3.7,
+      "gender": "Female"
     },
     {
       "id": 7,
-      "title": "The Catcher in the Rye",
-      "about": "A coming-of-age novel following a disenchanted teenager's journey in New York City.",
-      "author": "J.D. Salinger",
-      "price": 11.75,
-      "amount": 60,
-      "genre": "Fiction"
+      "name": "Daniel Wilson",
+      "age": 21,
+      "major": "Economics",
+      "gpa": 3.4,
+      "gender": "Male"
     },
     {
       "id": 8,
-      "title": "The Hobbit",
-      "about": "A classic fantasy novel detailing the adventures of Bilbo Baggins.",
-      "author": "J.R.R. Tolkien",
-      "price": 12.99,
-      "amount": 80,
-      "genre": "Fantasy"
+      "name": "Ava Taylor",
+      "age": 20,
+      "major": "Chemistry",
+      "gpa": 3.3,
+      "gender": "Female"
     },
     {
       "id": 9,
-      "title": "Crime and Punishment",
-      "about": "A psychological novel exploring the consequences of a young man's crime.",
-      "author": "Fyodor Dostoevsky",
-      "price": 13.49,
-      "amount": 40,
-      "genre": "Fiction"
+      "name": "William Anderson",
+      "age": 22,
+      "major": "Civil Engineering",
+      "gpa": 3.6,
+      "gender": "Male"
     },
     {
       "id": 10,
-      "title": "The Da Vinci Code",
-      "about": "A gripping thriller involving a mysterious murder and ancient secrets.",
-      "author": "Dan Brown",
-      "price": 9.99,
-      "amount": 90,
-      "genre": "Thriller"
+      "name": "Isabella Martin",
+      "age": 19,
+      "major": "Art History",
+      "gpa": 3.8,
+      "gender": "Female"
     },
     {
       "id": 11,
-      "title": "The Odyssey",
-      "about": "An ancient epic poem chronicling Odysseus' journey home after the Trojan War.",
-      "author": "Homer",
-      "price": 8.99,
-      "amount": 75,
-      "genre": "Epic Poetry"
+      "name": "Joseph Lee",
+      "age": 21,
+      "major": "Political Science",
+      "gpa": 3.2,
+      "gender": "Male"
     },
     {
       "id": 12,
-      "title": "Dracula",
-      "about": "A classic Gothic horror novel introducing Count Dracula's quest for new blood.",
-      "author": "Bram Stoker",
-      "price": 10.25,
-      "amount": 55,
-      "genre": "Horror"
+      "name": "Mia Hernandez",
+      "age": 20,
+      "major": "Sociology",
+      "gpa": 3.9,
+      "gender": "Female"
     },
     {
       "id": 13,
-      "title": "Moby-Dick",
-      "about": "A tale of obsession and revenge as a captain hunts a giant white whale.",
-      "author": "Herman Melville",
-      "price": 11.99,
-      "amount": 65,
-      "genre": "Adventure"
+      "name": "Alexander Gonzalez",
+      "age": 22,
+      "major": "Mathematics",
+      "gpa": 3.5,
+      "gender": "Male"
     },
     {
       "id": 14,
-      "title": "The Picture of Dorian Gray",
-      "about": "A philosophical novel exploring the consequences of eternal youth.",
-      "author": "Oscar Wilde",
-      "price": 9.49,
-      "amount": 45,
-      "genre": "Fiction"
+      "name": "Ella Moore",
+      "age": 19,
+      "major": "Music",
+      "gpa": 3.7,
+      "gender": "Female"
     },
     {
       "id": 15,
-      "title": "The Alchemist",
-      "about": "A mystical novel about the journey to discover one's own destiny.",
-      "author": "Paulo Coelho",
-      "price": 8.99,
-      "amount": 100,
-      "genre": "Fiction"
+      "name": "Christopher Clark",
+      "age": 21,
+      "major": "History",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 16,
+      "name": "Liam Walker",
+      "age": 20,
+      "major": "Computer Engineering",
+      "gpa": 3.6,
+      "gender": "Male"
+    },
+    {
+      "id": 17,
+      "name": "Emma Hall",
+      "age": 19,
+      "major": "English Language and Literature",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "name": "Noah Stewart",
+      "age": 22,
+      "major": "Physics",
+      "gpa": 3.7,
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "name": "Ava Bennett",
+      "age": 21,
+      "major": "Chemical Engineering",
+      "gpa": 3.8,
+      "gender": "Female"
+    },
+    {
+      "id": 20,
+      "name": "Jackson Simmons",
+      "age": 20,
+      "major": "Economics",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 21,
+      "name": "Charlotte Turner",
+      "age": 19,
+      "major": "Psychology",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 22,
+      "name": "Elijah Parker",
+      "age": 22,
+      "major": "Political Science",
+      "gpa": 3.2,
+      "gender": "Male"
+    },
+    {
+      "id": 23,
+      "name": "Mia Brooks",
+      "age": 20,
+      "major": "History",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 24,
+      "name": "Logan Wood",
+      "age": 22,
+      "major": "Biology",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 25,
+      "name": "Amelia Price",
+      "age": 19,
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "gender": "Female"
+    },
+    {
+      "id": 26,
+      "name": "Liam Murphy",
+      "age": 20,
+      "major": "Mechanical Engineering",
+      "gpa": 3.6,
+      "gender": "Male"
+    },
+    {
+      "id": 27,
+      "name": "Emma Kelly",
+      "age": 19,
+      "major": "English Literature",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 28,
+      "name": "Noah Phillips",
+      "age": 21,
+      "major": "Chemistry",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 29,
+      "name": "Olivia King",
+      "age": 20,
+      "major": "Civil Engineering",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 30,
+      "name": "William Scott",
+      "age": 22,
+      "major": "Art History",
+      "gpa": 3.8,
+      "gender": "Male"
+    },
+    {
+      "id": 31,
+      "name": "Ava Rivera",
+      "age": 19,
+      "major": "Psychology",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 32,
+      "name": "James Cooper",
+      "age": 21,
+      "major": "Economics",
+      "gpa": 3.2,
+      "gender": "Male"
+    },
+    {
+      "id": 33,
+      "name": "Sophia Adams",
+      "age": 20,
+      "major": "Sociology",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 34,
+      "name": "Daniel Campbell",
+      "age": 22,
+      "major": "Mathematics",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 35,
+      "name": "Ella Mitchell",
+      "age": 19,
+      "major": "Music",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 36,
+      "name": "Joseph Parker",
+      "age": 21,
+      "major": "History",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 37,
+      "name": "Mia Green",
+      "age": 20,
+      "major": "Computer Engineering",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 38,
+      "name": "Alexander Carter",
+      "age": 19,
+      "major": "English Language and Literature",
+      "gpa": 3.9,
+      "gender": "Male"
+    },
+    {
+      "id": 39,
+      "name": "Ella Turner",
+      "age": 22,
+      "major": "Physics",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 40,
+      "name": "Christopher Cook",
+      "age": 21,
+      "major": "Chemical Engineering",
+      "gpa": 3.8,
+      "gender": "Male"
     }
   ]
 }
