@@ -1,3 +1,214 @@
 {
-  "cars": []
+  "cars": [
+    {
+      "id": 1,
+      "model": "Camry",
+      "marka": "Toyota",
+      "year": 2020,
+      "price": 25000
+    },
+    {
+      "id": 2,
+      "model": "Civic",
+      "marka": "Honda",
+      "year": 2019,
+      "price": 22000
+    },
+    {
+      "id": 3,
+      "model": "3 Series",
+      "marka": "BMW",
+      "year": 2021,
+      "price": 35000
+    },
+    {
+      "id": 4,
+      "model": "Accord",
+      "marka": "Honda",
+      "year": 2018,
+      "price": 18000
+    },
+    {
+      "id": 5,
+      "model": "Corolla",
+      "marka": "Toyota",
+      "year": 2022,
+      "price": 27000
+    },
+    {
+      "id": 6,
+      "model": "F-150",
+      "marka": "Ford",
+      "year": 2020,
+      "price": 32000
+    },
+    {
+      "id": 7,
+      "model": "X5",
+      "marka": "BMW",
+      "year": 2019,
+      "price": 40000
+    },
+    {
+      "id": 8,
+      "model": "Camaro",
+      "marka": "Chevrolet",
+      "year": 2018,
+      "price": 28000
+    },
+    {
+      "id": 9,
+      "model": "C-Class",
+      "marka": "Mercedes-Benz",
+      "year": 2021,
+      "price": 42000
+    },
+    {
+      "id": 10,
+      "model": "Mustang",
+      "marka": "Ford",
+      "year": 2022,
+      "price": 38000
+    },
+    {
+      "id": 11,
+      "model": "RAV4",
+      "marka": "Toyota",
+      "year": 2020,
+      "price": 26000
+    },
+    {
+      "id": 12,
+      "model": "Wrangler",
+      "marka": "Jeep",
+      "year": 2021,
+      "price": 30000
+    },
+    {
+      "id": 13,
+      "model": "A4",
+      "marka": "Audi",
+      "year": 2019,
+      "price": 32000
+    },
+    {
+      "id": 14,
+      "model": "Sorento",
+      "marka": "Kia",
+      "year": 2020,
+      "price": 24000
+    },
+    {
+      "id": 15,
+      "model": "Golf",
+      "marka": "Volkswagen",
+      "year": 2022,
+      "price": 28000
+    },
+    {
+      "id": 16,
+      "model": "Explorer",
+      "marka": "Ford",
+      "year": 2019,
+      "price": 32000
+    },
+    {
+      "id": 17,
+      "model": "3 Series",
+      "marka": "BMW",
+      "year": 2023,
+      "price": 42000
+    },
+    {
+      "id": 18,
+      "model": "Optima",
+      "marka": "Kia",
+      "year": 2018,
+      "price": 21000
+    },
+    {
+      "id": 19,
+      "model": "Q7",
+      "marka": "Audi",
+      "year": 2021,
+      "price": 45000
+    },
+    {
+      "id": 20,
+      "model": "Pilot",
+      "marka": "Honda",
+      "year": 2020,
+      "price": 34000
+    },
+    {
+      "id": 21,
+      "model": "Grand Cherokee",
+      "marka": "Jeep",
+      "year": 2019,
+      "price": 32000
+    },
+    {
+      "id": 22,
+      "model": "Model 3",
+      "marka": "Tesla",
+      "year": 2022,
+      "price": 50000
+    },
+    {
+      "id": 23,
+      "model": "S-Class",
+      "marka": "Mercedes-Benz",
+      "year": 2021,
+      "price": 60000
+    },
+    {
+      "id": 24,
+      "model": "A5",
+      "marka": "Audi",
+      "year": 2020,
+      "price": 38000
+    },
+    {
+      "id": 25,
+      "model": "Fusion",
+      "marka": "Ford",
+      "year": 2018,
+      "price": 23000
+    },
+    {
+      "id": 26,
+      "model": "Cruze",
+      "marka": "Chevrolet",
+      "year": 2022,
+      "price": 26000
+    },
+    {
+      "id": 27,
+      "model": "Tucson",
+      "marka": "Hyundai",
+      "year": 2019,
+      "price": 27000
+    },
+    {
+      "id": 28,
+      "model": "Tiguan",
+      "marka": "Volkswagen",
+      "year": 2020,
+      "price": 29000
+    },
+    {
+      "id": 29,
+      "model": "X3",
+      "marka": "BMW",
+      "year": 2021,
+      "price": 38000
+    },
+    {
+      "id": 30,
+      "model": "Soul",
+      "marka": "Kia",
+      "year": 2022,
+      "price": 25000
+    }
+  ]
 }
