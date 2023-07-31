@@ -1,363 +1,704 @@
 {
-  "users": [
+  "quotes": [
     {
-      "name": "Adrian Boehm TEST",
-      "age": 51,
-      "bankId": "MK79003AJY799413163",
-      "id": 1
+      "id": 1,
+      "author": "Albert Einstein",
+      "body": "Imagination is more important than knowledge.",
+      "tag": "inspiration",
+      "lang": "english"
     },
     {
-      "name": "Carroll Emard",
-      "age": 15,
-      "bankId": "SE2783977060900760189662",
-      "id": 2
+      "id": 2,
+      "author": "Тарас Шевченко",
+      "body": "Мовчи, мовч і горе мине, говори - із горем спиниш.",
+      "tag": "мудрість",
+      "lang": "ukrainian"
     },
     {
-      "name": "Cora Mills II",
-      "age": 140,
-      "bankId": "CH058322849157M27355A",
-      "id": 3
+      "id": 3,
+      "author": "Stanisław Lem",
+      "body": "Człowiek, który nie zna litości, jest człowiekiem w najpełniejszym tego słowa znaczeniu.",
+      "tag": "filozofia",
+      "lang": "polish"
     },
     {
-      "name": "Jessie Wuckert",
-      "age": 912,
-      "bankId": "BA910800740083469626",
-      "id": 4
+      "id": 4,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Die beste Zeit für einen Neuanfang ist jetzt.",
+      "tag": "motivation",
+      "lang": "german"
     },
     {
-      "name": "Christie Schamberger",
-      "age": 989,
-      "bankId": "CY29310082863804LM94D11KJL63",
-      "id": 5
+      "id": 5,
+      "author": "William Shakespeare",
+      "body": "All the world's a stage, and all the men and women merely players.",
+      "tag": "wisdom",
+      "lang": "english"
     },
     {
-      "name": "Freda Robel V",
-      "age": 147,
-      "bankId": "XK819440076370260862",
-      "id": 6
+      "id": 6,
+      "author": "Леся Українка",
+      "body": "Не питай, де рай, шукай його, де твоя праця.",
+      "tag": "мудрість",
+      "lang": "ukrainian"
     },
     {
-      "name": "Duane Hegmann",
-      "age": 68,
-      "bankId": "MR7337200086124830420644008",
-      "id": 7
+      "id": 7,
+      "author": "Henryk Sienkiewicz",
+      "body": "Czy to jest Polska, że nie umiem oddać słów za to, co mnie tu ogarnia?",
+      "tag": "miłość",
+      "lang": "polish"
     },
     {
-      "name": "Barbara Zboncak",
-      "age": 485,
-      "bankId": "GB95GDEJ93709191503410",
-      "id": 8
+      "id": 8,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Es ist nichts schrecklicher als eine tätige Unwissenheit.",
+      "tag": "wissen",
+      "lang": "german"
     },
     {
-      "name": "Patricia Jacobson",
-      "age": 26,
-      "bankId": "VG6865986100200423234200",
-      "id": 9
+      "id": 9,
+      "author": "Ralph Waldo Emerson",
+      "body": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "tag": "motivation",
+      "lang": "english"
     },
     {
-      "name": "Forrest Rowe",
-      "age": 636,
-      "bankId": "PT92529060090577002009003",
-      "id": 10
+      "id": 10,
+      "author": "Іван Франко",
+      "body": "Світ та сонце, поле і люди - все життя для кожного.",
+      "tag": "життя",
+      "lang": "ukrainian"
     },
     {
-      "name": "Grant Beatty",
-      "age": 812,
-      "bankId": "GB20OZVJ93006208808720",
-      "id": 11
+      "id": 11,
+      "author": "Wisława Szymborska",
+      "body": "Najtrudniejsze jest godzenie się z tym, że wszystko pozostanie bez odpowiedzi.",
+      "tag": "refleksja",
+      "lang": "polish"
     },
     {
-      "name": "Lorena Nitzsche",
-      "age": 68,
-      "bankId": "BH76DULY3U65036L360164",
-      "id": 12
+      "id": 12,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Alles, was uns begegnet, lässt Spuren zurück. Alles trägt unmerklich zu unserer Bildung bei.",
+      "tag": "bildung",
+      "lang": "german"
     },
     {
-      "name": "Ms. Crystal Rodriguez",
-      "age": 582,
-      "bankId": "DO66ZXAK79034403008991119882",
-      "id": 13
+      "id": 13,
+      "author": "Mark Twain",
+      "body": "The secret of getting ahead is getting started.",
+      "tag": "success",
+      "lang": "english"
     },
     {
-      "name": "Kristine Jerde",
-      "age": 697,
-      "bankId": "HU39257533627086002900828115",
-      "id": 14
+      "id": 14,
+      "author": "Ліна Костенко",
+      "body": "Така проста довіра, таке просте слово - і всьому кінець.",
+      "tag": "довіра",
+      "lang": "ukrainian"
     },
     {
-      "name": "Georgia Kuhic",
-      "age": 201,
-      "bankId": "AT927804800050459126",
-      "id": 15
+      "id": 15,
+      "author": "Adam Mickiewicz",
+      "body": "Szczęście przez różne drogi chodzi, nieszczęście zawsze wpada w jedno miejsce.",
+      "tag": "szczęście",
+      "lang": "polish"
+    },
+    {
+      "id": 16,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "In der Beschränkung zeigt sich erst der Meister, und das Gesetz nur kann uns Freiheit geben.",
+      "tag": "freiheit",
+      "lang": "german"
+    },
+    {
+      "id": 17,
+      "author": "Eleanor Roosevelt",
+      "body": "The future belongs to those who believe in the beauty of their dreams.",
+      "tag": "dreams",
+      "lang": "english"
+    },
+    {
+      "id": 18,
+      "author": "Тарас Шевченко",
+      "body": "Дайте свободу нашим мовам, дайте волю нашим рукам.",
+      "tag": "свобода",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 19,
+      "author": "Henryk Sienkiewicz",
+      "body": "Każde dobre dzieło, jak człowiek, ma prawo do snu.",
+      "tag": "sztuka",
+      "lang": "polish"
+    },
+    {
+      "id": 20,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Es irrt der Mensch, solang er strebt.",
+      "tag": "irren",
+      "lang": "german"
+    },
+    {
+      "id": 21,
+      "author": "Maya Angelou",
+      "body": "If you don't like something, change it. If you can't change it, change your attitude.",
+      "tag": "attitude",
+      "lang": "english"
+    },
+    {
+      "id": 22,
+      "author": "Іван Франко",
+      "body": "Історія не про те, що ти був довгий час на світі, а який в тебе талант.",
+      "tag": "талант",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 23,
+      "author": "Wisława Szymborska",
+      "body": "Właśnie to lubię w sporach naukowych, że nie liczy się opinia większości.",
+      "tag": "nauka",
+      "lang": "polish"
+    },
+    {
+      "id": 24,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Man muss das Unmögliche versuchen, um das Mögliche zu erreichen.",
+      "tag": "möglich",
+      "lang": "german"
+    },
+    {
+      "id": 25,
+      "author": "Walt Disney",
+      "body": "All our dreams can come true if we have the courage to pursue them.",
+      "tag": "dreams",
+      "lang": "english"
+    },
+    {
+      "id": 26,
+      "author": "Леся Українка",
+      "body": "Очі мов море, яке ховає глибину свою.",
+      "tag": "очі",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 27,
+      "author": "Wisława Szymborska",
+      "body": "Nawet zawsze umierać nam się nie chce, a co dopiero teraz.",
+      "tag": "życie",
+      "lang": "polish"
+    },
+    {
+      "id": 28,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Glücklich allein ist die Seele, die liebt.",
+      "tag": "liebe",
+      "lang": "german"
+    },
+    {
+      "id": 29,
+      "author": "Audrey Hepburn",
+      "body": "Nothing is impossible, the word itself says 'I'm possible'!",
+      "tag": "inspiration",
+      "lang": "english"
+    },
+    {
+      "id": 30,
+      "author": "Тарас Шевченко",
+      "body": "Не буду собі в найменшім казати рад, які приходили на думку.",
+      "tag": "радість",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 31,
+      "author": "Adam Mickiewicz",
+      "body": "Lecz pamiętaj, że kiedy wiosna zawita, lepiej w garści róż iść do sąsiada, niż w garści drogich kwiatów umrzeć samotnie.",
+      "tag": "miłość",
+      "lang": "polish"
+    },
+    {
+      "id": 32,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Habe den Mut, dich deines eigenen Verstandes zu bedienen.",
+      "tag": "verstand",
+      "lang": "german"
+    },
+    {
+      "id": 33,
+      "author": "Nelson Mandela",
+      "body": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "tag": "glory",
+      "lang": "english"
+    },
+    {
+      "id": 34,
+      "author": "Іван Франко",
+      "body": "Всі роботи можуть бути страшні і жалісні, але найжалісніші з них - це ліниві роботи.",
+      "tag": "лінь",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 35,
+      "author": "Wisława Szymborska",
+      "body": "Świat ma tę właściwość, że zawsze dowiadujemy się z niego za dużo i za mało.",
+      "tag": "świat",
+      "lang": "polish"
+    },
+    {
+      "id": 36,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Das Leben ist ein Traum, aber dieser Traum ist Wirklichkeit.",
+      "tag": "traum",
+      "lang": "german"
+    },
+    {
+      "id": 37,
+      "author": "Oprah Winfrey",
+      "body": "The biggest adventure you can take is to live the life of your dreams.",
+      "tag": "adventure",
+      "lang": "english"
+    },
+    {
+      "id": 38,
+      "author": "Тарас Шевченко",
+      "body": "Тиха рідна мова, мов жива, співа, мова рідних сердець.",
+      "tag": "мова",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 39,
+      "author": "Wisława Szymborska",
+      "body": "Niczego nie żałuję, ale wiele rzeczy bym zrobiła inaczej.",
+      "tag": "życie",
+      "lang": "polish"
+    },
+    {
+      "id": 40,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Ein Gewinn an Erkenntnis kommt uns oft wie ein Verlust von Illusionen vor.",
+      "tag": "erkenntnis",
+      "lang": "german"
+    },
+    {
+      "id": 41,
+      "author": "Helen Keller",
+      "body": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "tag": "beauty",
+      "lang": "english"
+    },
+    {
+      "id": 42,
+      "author": "Леся Українка",
+      "body": "Бо одвічне, глибоке, широке - і ти сам, і вічне в тобі.",
+      "tag": "душа",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 43,
+      "author": "Adam Mickiewicz",
+      "body": "Kiedy Bóg chce wybić człowiekowi z głowy kłody, daje mu więcej rozumu.",
+      "tag": "rozum",
+      "lang": "polish"
+    },
+    {
+      "id": 44,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Es ist nicht genug zu wissen, man muss auch anwenden; es ist nicht genug zu wollen, man muss auch tun.",
+      "tag": "wissen",
+      "lang": "german"
+    },
+    {
+      "id": 45,
+      "author": "Coco Chanel",
+      "body": "The most courageous act is still to think for yourself. Aloud.",
+      "tag": "courage",
+      "lang": "english"
+    },
+    {
+      "id": 46,
+      "author": "Іван Франко",
+      "body": "Добро - єдине силою знається, і тільки доброю гідна людина.",
+      "tag": "добро",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 47,
+      "author": "Stanisław Lem",
+      "body": "Każda myśl zdolna jest wybuchnąć jak koktajl Molotowa.",
+      "tag": "myśl",
+      "lang": "polish"
+    },
+    {
+      "id": 48,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Sage nicht alles, was du weißt, aber wisse immer, was du sagst.",
+      "tag": "wissen",
+      "lang": "german"
+    },
+    {
+      "id": 49,
+      "author": "Martin Luther King Jr.",
+      "body": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "tag": "light",
+      "lang": "english"
+    },
+    {
+      "id": 50,
+      "author": "Ліна Костенко",
+      "body": "Хоч дитина народжується плачучою, але родина радіє.",
+      "tag": "радість",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 51,
+      "author": "Adam Mickiewicz",
+      "body": "Dobrych uczynków nigdy nie jest dość.",
+      "tag": "dobro",
+      "lang": "polish"
+    },
+    {
+      "id": 52,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Verstand ohne Fleiß ist töricht, Fleiß ohne Verstand ist gefährlich.",
+      "tag": "fleiß",
+      "lang": "german"
+    },
+    {
+      "id": 53,
+      "author": "Rumi",
+      "body": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "tag": "love",
+      "lang": "english"
+    },
+    {
+      "id": 54,
+      "author": "Тарас Шевченко",
+      "body": "Людей великії не багато, а багато їх смертных, що живуть мов тіні.",
+      "tag": "велич",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 55,
+      "author": "Wisława Szymborska",
+      "body": "Dwie pary oczu wykończą się pieszczotami, aż poczujesz je jak obce.",
+      "tag": "miłość",
+      "lang": "polish"
+    },
+    {
+      "id": 56,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Wohin du gehst, geh mit deinem ganzen Herzen.",
+      "tag": "herz",
+      "lang": "german"
+    },
+    {
+      "id": 57,
+      "author": "Winston Churchill",
+      "body": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "tag": "success",
+      "lang": "english"
+    },
+    {
+      "id": 58,
+      "author": "Леся Українка",
+      "body": "Без світла серця людина померла, а серце погасло, коли в ньому немає любови.",
+      "tag": "серце",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 59,
+      "author": "Wisława Szymborska",
+      "body": "Gdziekolwiek jesteś, zawsze tam jesteś, a gdziekolwiek cię nie ma, cię nie ma.",
+      "tag": "obecność",
+      "lang": "polish"
+    },
+    {
+      "id": 60,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Es bildet ein Talent sich in der Stille, sich ein Charakter in dem Strom der Welt.",
+      "tag": "talent",
+      "lang": "german"
+    },
+    {
+      "id": 61,
+      "author": "Maya Angelou",
+      "body": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+      "tag": "strength",
+      "lang": "english"
+    },
+    {
+      "id": 62,
+      "author": "Тарас Шевченко",
+      "body": "Волю наші серця знають, хоч доля наша тяжка.",
+      "tag": "воля",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 63,
+      "author": "Stanisław Lem",
+      "body": "Kto nie potrafiłby milczeć, nie potrafiłby też mówić.",
+      "tag": "milczenie",
+      "lang": "polish"
+    },
+    {
+      "id": 64,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Besser eine Stunde mit dem Verständigen, als ein Jahr mit dem Toren.",
+      "tag": "verständnis",
+      "lang": "german"
+    },
+    {
+      "id": 65,
+      "author": "Bob Marley",
+      "body": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.",
+      "tag": "truth",
+      "lang": "english"
+    },
+    {
+      "id": 66,
+      "author": "Ліна Костенко",
+      "body": "Мовчанням просіють сльози, а словами відлятає смуток.",
+      "tag": "слова",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 67,
+      "author": "Wisława Szymborska",
+      "body": "Przychodził nocą z kolumnami cieni.",
+      "tag": "noc",
+      "lang": "polish"
+    },
+    {
+      "id": 68,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Wer immer strebend sich bemüht, den können wir erlösen.",
+      "tag": "streben",
+      "lang": "german"
+    },
+    {
+      "id": 69,
+      "author": "Steve Jobs",
+      "body": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "tag": "work",
+      "lang": "english"
+    },
+    {
+      "id": 70,
+      "author": "Іван Франко",
+      "body": "Для діла й справи треба смілости, а з смілістю побачиш і славу.",
+      "tag": "сміливість",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 71,
+      "author": "Stanisław Lem",
+      "body": "Nie umiem nie myśleć.",
+      "tag": "myślenie",
+      "lang": "polish"
+    },
+    {
+      "id": 72,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Wahrheit und Güte sind die ersten Prinzipien für die Gemeinschaft der Menschen.",
+      "tag": "wahrheit",
+      "lang": "german"
+    },
+    {
+      "id": 73,
+      "author": "Oscar Wilde",
+      "body": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "tag": "life",
+      "lang": "english"
+    },
+    {
+      "id": 74,
+      "author": "Леся Українка",
+      "body": "За щастям, за тишею згадай і мене.",
+      "tag": "щастя",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 75,
+      "author": "Wisława Szymborska",
+      "body": "Tak mi się zawsze wydawało, że rok ma dwanaście miesięcy, a tyłek - jedenaście.",
+      "tag": "czas",
+      "lang": "polish"
+    },
+    {
+      "id": 76,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Die Tat ist alles, nichts der Ruhm.",
+      "tag": "tat",
+      "lang": "german"
+    },
+    {
+      "id": 77,
+      "author": "Eleanor Roosevelt",
+      "body": "Do what you feel in your heart to be right - for you'll be criticized anyway.",
+      "tag": "courage",
+      "lang": "english"
+    },
+    {
+      "id": 78,
+      "author": "Тарас Шевченко",
+      "body": "Своєю мудрістю я, слава, не багатий, та знання моє душу розшукує.",
+      "tag": "мудрість",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 79,
+      "author": "Wisława Szymborska",
+      "body": "Wszystko, co istniało, może być naszym dziedzictwem.",
+      "tag": "dziedzictwo",
+      "lang": "polish"
+    },
+    {
+      "id": 80,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Wer kämpft, kann verlieren; wer nicht kämpft, hat schon verloren.",
+      "tag": "kampf",
+      "lang": "german"
+    },
+    {
+      "id": 81,
+      "author": "Mahatma Gandhi",
+      "body": "The best way to find yourself is to lose yourself in the service of others.",
+      "tag": "service",
+      "lang": "english"
+    },
+    {
+      "id": 82,
+      "author": "Ліна Костенко",
+      "body": "Щастя любило світ, як діти, а діти - світ.",
+      "tag": "щастя",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 83,
+      "author": "Stanisław Lem",
+      "body": "Uczepimy się snów, aby zmierzyć przestrzeń i czas.",
+      "tag": "sny",
+      "lang": "polish"
+    },
+    {
+      "id": 84,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Das Wissen ist von keinem Vermögen und nur eine gute Anlage.",
+      "tag": "wissen",
+      "lang": "german"
+    },
+    {
+      "id": 85,
+      "author": "Mark Twain",
+      "body": "The two most important days in your life are the day you are born and the day you find out why.",
+      "tag": "life",
+      "lang": "english"
+    },
+    {
+      "id": 86,
+      "author": "Іван Франко",
+      "body": "Сміюсь і плачу, регочу й кривлюсь, гнів ховаю, щирість притворюю.",
+      "tag": "емоції",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 87,
+      "author": "Wisława Szymborska",
+      "body": "Jak wesoło, nie wiadomo, jak smutno, jeszcze mniej.",
+      "tag": "niewiadomo",
+      "lang": "polish"
+    },
+    {
+      "id": 88,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Dummheit und Stolz wachsen auf einem Holze.",
+      "tag": "dummheit",
+      "lang": "german"
+    },
+    {
+      "id": 89,
+      "author": "Ralph Waldo Emerson",
+      "body": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "tag": "accomplishment",
+      "lang": "english"
+    },
+    {
+      "id": 90,
+      "author": "Леся Українка",
+      "body": "Хто в добру день, тому весело, хто в лиху - тому й день лихий.",
+      "tag": "день",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 91,
+      "author": "Stanisław Lem",
+      "body": "Uwierzysz temu, co nie jest prawdą.",
+      "tag": "prawda",
+      "lang": "polish"
+    },
+    {
+      "id": 92,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Es kommt nicht darauf an, dem Leben mehr Jahre zu geben, sondern den Jahren mehr Leben zu geben.",
+      "tag": "leben",
+      "lang": "german"
+    },
+    {
+      "id": 93,
+      "author": "Maya Angelou",
+      "body": "You are the sum total of everything you've ever seen, heard, eaten, smelled, been told, forgot - it's all there.",
+      "tag": "experience",
+      "lang": "english"
+    },
+    {
+      "id": 94,
+      "author": "Тарас Шевченко",
+      "body": "Щастя жде нас поза селом і містом, між травою й лісом, в полях і степах.",
+      "tag": "природа",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 95,
+      "author": "Wisława Szymborska",
+      "body": "Raz, dwa, trzy, dwa, jeden, pięć, raz, dwa, dwa, pięć...",
+      "tag": "liczenie",
+      "lang": "polish"
+    },
+    {
+      "id": 96,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Edel sei der Mensch, hilfreich und gut.",
+      "tag": "edel",
+      "lang": "german"
+    },
+    {
+      "id": 97,
+      "author": "William Shakespeare",
+      "body": "We know what we are, but know not what we may be.",
+      "tag": "identity",
+      "lang": "english"
+    },
+    {
+      "id": 98,
+      "author": "Ліна Костенко",
+      "body": "Бідному страху більше треба віри, ніж їй богатому.",
+      "tag": "страх",
+      "lang": "ukrainian"
+    },
+    {
+      "id": 99,
+      "author": "Stanisław Lem",
+      "body": "Dziwna jest rzeczywistość, która nie jest dziwna.",
+      "tag": "rzeczywistość",
+      "lang": "polish"
+    },
+    {
+      "id": 100,
+      "author": "Johann Wolfgang von Goethe",
+      "body": "Wer vieles bringt, wird manchem etwas bringen.",
+      "tag": "vielfalt",
+      "lang": "german"
     }
-  ],
-  "rooms": [],
-  "books": [
-    {
-      "title": "1awdsf",
-      "author": "sfsef",
-      "desc": "awdawd",
-      "id": 4
-    },
-    {
-      "title": "sefsef",
-      "author": "awdawd",
-      "desc": "sefsef",
-      "id": 5
-    },
-    {
-      "title": "quod beatae id",
-      "author": "Kayla Muller",
-      "desc": "Autem id ut officiis architecto alias. Rerum in quis temporibus dicta exercitationem nulla. Quis non et quod sunt nihil blanditiis qui. Ea voluptatem sit ullam repudiandae itaque et. Nihil suscipit eaque repudiandae ut ducimus.",
-      "id": 6
-    },
-    {
-      "title": "eos ea quam",
-      "author": "Blanca Rutherford",
-      "desc": "Nihil qui non perspiciatis molestias voluptatum nulla dolor. Fuga quia laudantium illum reprehenderit excepturi dolores tenetur perferendis. Ratione consequatur ut voluptas fugiat. Nobis cumque fugit dicta ut nihil assumenda nobis sunt quos. Natus quaerat fugit in.",
-      "id": 7
-    },
-    {
-      "title": "sit vel voluptas",
-      "author": "Warren Jast I",
-      "desc": "Aut saepe dolores quia qui ex voluptatum est. Est eaque debitis asperiores architecto et quo. Inventore eius est in. Debitis asperiores sit.",
-      "id": 8
-    },
-    {
-      "title": "illum reiciendis odio",
-      "author": "Howard Greenfelder",
-      "desc": "In ullam et consequatur velit ea temporibus animi. Ipsa fuga perferendis. Est consequatur maxime molestias aut.",
-      "id": 9
-    },
-    {
-      "title": "ipsam temporibus fuga",
-      "author": "Dwight Crona",
-      "desc": "Magni nulla ducimus maxime dolore architecto laborum quidem delectus ut. Necessitatibus at voluptas est. Alias dolore qui aspernatur aut et est mollitia. Nobis aut necessitatibus nisi qui culpa. Fugiat omnis soluta culpa accusantium qui alias eius illo. Modi explicabo qui nemo.",
-      "id": 10
-    },
-    {
-      "title": "sefsef",
-      "author": "awdaw",
-      "desc": "awdawd",
-      "id": 11
-    },
-    {
-      "title": "sefsef",
-      "author": "awdawd",
-      "desc": "awdawd",
-      "id": 12
-    },
-    {
-      "title": "amet saepe omnis",
-      "author": "Bob Kulas",
-      "desc": "Dolorem asperiores esse nemo minus est doloribus dignissimos accusamus. Animi qui fugit quo maxime distinctio assumenda nostrum sapiente. Consequatur magni voluptatibus molestiae. Sequi voluptatem id enim minima et delectus sapiente. Aut illo perspiciatis incidunt quo non et.",
-      "tag": "popular",
-      "id": 13
-    },
-    {
-      "title": "ducimus consequatur quae",
-      "author": "Ellen Heaney",
-      "desc": "Reiciendis nihil voluptatibus debitis rerum voluptatibus dolore officia nihil. Alias et laborum consequatur est non rerum est. Ipsam omnis cum et quis itaque aut. Hic et nam non officiis asperiores quia.",
-      "tag": "popular",
-      "id": 14
-    },
-    {
-      "title": "consequatur autem excepturi",
-      "author": "Dorothy Osinski",
-      "desc": "Quo libero est. Adipisci doloribus voluptatem esse quaerat. Maxime officiis ut consequatur ut id enim sit nesciunt aut. Neque tempora dicta delectus sit recusandae provident sit aliquam ab.",
-      "tag": "popular",
-      "id": 16
-    },
-    {
-      "title": "sunt omnis qui",
-      "author": "Marion Fritsch",
-      "desc": "Rerum quidem sint fugit dolore ut aut enim. Fugit tempora et quia laboriosam tempore voluptas. Non quaerat cupiditate quasi qui voluptas et.",
-      "tag": "popular",
-      "id": 17
-    },
-    {
-      "title": "voluptas sequi necessitatibus",
-      "author": "Alberto Graham",
-      "desc": "Sunt autem eveniet ea vitae et. Voluptatem laudantium quos laudantium qui ipsum. Voluptas quae quia illum et sed quae debitis. Eveniet aut ea et deserunt cumque eos. Pariatur at quia necessitatibus totam vel officia sed velit. Quasi cum pariatur explicabo ex perspiciatis velit non unde.",
-      "tag": "popular",
-      "id": 18
-    },
-    {
-      "title": "TEST",
-      "author": "AUTHOR",
-      "desc": "srgdthdrg",
-      "tag": "rgdtg",
-      "id": 19
-    },
-    {
-      "title": "TEST1",
-      "author": "AUTHOR1",
-      "desc": "srgdthdrgsefs",
-      "tag": "test",
-      "id": 20
-    },
-    {
-      "title": "123",
-      "author": "234",
-      "desc": "345",
-      "id": 21
-    },
-    {
-      "title": "BOOK 1",
-      "author": "AUTHOR 1",
-      "desc": "DESC",
-      "id": 22
-    },
-    {
-      "title": "New Title",
-      "author": "sfsef",
-      "desc": "dtrgdrg",
-      "id": 23
-    },
-    {
-      "title": "sef",
-      "author": "awd",
-      "desc": "drg",
-      "tag": "tsefest",
-      "id": 24
-    },
-    {
-      "title": "sef",
-      "author": "awd",
-      "desc": "drg",
-      "tag": "tsefest",
-      "id": 25
-    },
-    {
-      "title": "sef",
-      "author": "awd",
-      "desc": "drg",
-      "tag": "tsefest",
-      "id": 26
-    },
-    {
-      "title": "sefsef",
-      "author": "awdawd",
-      "desc": "sefsef",
-      "id": 27
-    },
-    {
-      "title": "ddthfth",
-      "author": "sefsef",
-      "desc": "awdawd",
-      "id": 28
-    },
-    {
-      "title": "TEST",
-      "author": "TEST",
-      "desc": "TEST",
-      "id": 29
-    },
-    {
-      "title": "123",
-      "author": "eawd",
-      "desc": "sefsef",
-      "id": 30
-    },
-    {
-      "title": "123123",
-      "author": "sefsef",
-      "desc": "awawd",
-      "id": 31
-    },
-    {
-      "title": "sefsef",
-      "author": "awd",
-      "desc": "drgsef",
-      "tag": "awdawd",
-      "id": 32
-    },
-    {
-      "title": "inventore nesciunt dicta",
-      "author": "Ruben Wyman",
-      "desc": "libero dolorum est",
-      "tag": "awdawd",
-      "id": 33
-    },
-    {
-      "title": "alias eum omnis",
-      "author": "Lucille Walter",
-      "desc": "perferendis eos quod",
-      "tag": "awdawd",
-      "id": 34
-    },
-    {
-      "title": "veniam placeat ad",
-      "author": "Joe Collins",
-      "desc": "quisquam ducimus autem",
-      "tag": "awdawd",
-      "id": 35
-    },
-    {
-      "title": "magnam ad ipsam",
-      "author": "Anita Runolfsson",
-      "desc": "corporis dolores nemo",
-      "tag": "awdawd",
-      "id": 36
-    },
-    {
-      "title": "mollitia impedit amet",
-      "author": "Victoria Lowe",
-      "desc": "ratione possimus officiis",
-      "tag": "awdawd",
-      "id": 37
-    },
-    {
-      "title": "sunt esse omnis",
-      "author": "Ian O'Kon",
-      "desc": "soluta aut dolor",
-      "tag": "awdawd",
-      "id": 38
-    },
-    {
-      "title": "veritatis sapiente nesciunt",
-      "author": "Doreen Pollich",
-      "desc": "esse molestiae quo",
-      "tag": "awdawd",
-      "id": 39
-    },
-    {
-      "title": "sefsef",
-      "author": "awdawd",
-      "desc": "sefsef",
-      "id": 40
-    },
-    {
-      "title": "sefsef",
-      "author": "efsef",
-      "desc": "sefsef",
-      "id": 41
-    },
-    {
-      "title": "awdawd",
-      "author": "awdawd",
-      "desc": "awdawd",
-      "id": 42
-    },
-    {
-      "title": "awd",
-      "author": "sef",
-      "desc": "awd",
-      "id": 43
-    },
-    {
-      "title": "sef",
-      "author": "adawd",
-      "desc": "awdawd",
-      "id": 44
-    },
-    {
-      "title": "sef",
-      "author": "awda",
-      "desc": "sefsef",
-      "id": 45
-    }
-  ],
-  "rating": [],
-  "profiles": []
+  ]
 }
