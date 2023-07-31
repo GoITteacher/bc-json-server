@@ -700,5 +700,327 @@
       "tag": "vielfalt",
       "lang": "german"
     }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "age": 20,
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "age": 19,
+      "major": "Biology",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Michael Williams",
+      "age": 21,
+      "major": "Business Administration",
+      "gpa": 3.2,
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Olivia Brown",
+      "age": 20,
+      "major": "Psychology",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "James Miller",
+      "age": 22,
+      "major": "Mechanical Engineering",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Davis",
+      "age": 19,
+      "major": "English Literature",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Wilson",
+      "age": 21,
+      "major": "Economics",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Ava Taylor",
+      "age": 20,
+      "major": "Chemistry",
+      "gpa": 3.3,
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "name": "William Anderson",
+      "age": 22,
+      "major": "Civil Engineering",
+      "gpa": 3.6,
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Isabella Martin",
+      "age": 19,
+      "major": "Art History",
+      "gpa": 3.8,
+      "gender": "Female"
+    },
+    {
+      "id": 11,
+      "name": "Joseph Lee",
+      "age": 21,
+      "major": "Political Science",
+      "gpa": 3.2,
+      "gender": "Male"
+    },
+    {
+      "id": 12,
+      "name": "Mia Hernandez",
+      "age": 20,
+      "major": "Sociology",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 13,
+      "name": "Alexander Gonzalez",
+      "age": 22,
+      "major": "Mathematics",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 14,
+      "name": "Ella Moore",
+      "age": 19,
+      "major": "Music",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 15,
+      "name": "Christopher Clark",
+      "age": 21,
+      "major": "History",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 16,
+      "name": "Liam Walker",
+      "age": 20,
+      "major": "Computer Engineering",
+      "gpa": 3.6,
+      "gender": "Male"
+    },
+    {
+      "id": 17,
+      "name": "Emma Hall",
+      "age": 19,
+      "major": "English Language and Literature",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "name": "Noah Stewart",
+      "age": 22,
+      "major": "Physics",
+      "gpa": 3.7,
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "name": "Ava Bennett",
+      "age": 21,
+      "major": "Chemical Engineering",
+      "gpa": 3.8,
+      "gender": "Female"
+    },
+    {
+      "id": 20,
+      "name": "Jackson Simmons",
+      "age": 20,
+      "major": "Economics",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 21,
+      "name": "Charlotte Turner",
+      "age": 19,
+      "major": "Psychology",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 22,
+      "name": "Elijah Parker",
+      "age": 22,
+      "major": "Political Science",
+      "gpa": 3.2,
+      "gender": "Male"
+    },
+    {
+      "id": 23,
+      "name": "Mia Brooks",
+      "age": 20,
+      "major": "History",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 24,
+      "name": "Logan Wood",
+      "age": 22,
+      "major": "Biology",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 25,
+      "name": "Amelia Price",
+      "age": 19,
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "gender": "Female"
+    },
+    {
+      "id": 26,
+      "name": "Liam Murphy",
+      "age": 20,
+      "major": "Mechanical Engineering",
+      "gpa": 3.6,
+      "gender": "Male"
+    },
+    {
+      "id": 27,
+      "name": "Emma Kelly",
+      "age": 19,
+      "major": "English Literature",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 28,
+      "name": "Noah Phillips",
+      "age": 21,
+      "major": "Chemistry",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 29,
+      "name": "Olivia King",
+      "age": 20,
+      "major": "Civil Engineering",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 30,
+      "name": "William Scott",
+      "age": 22,
+      "major": "Art History",
+      "gpa": 3.8,
+      "gender": "Male"
+    },
+    {
+      "id": 31,
+      "name": "Ava Rivera",
+      "age": 19,
+      "major": "Psychology",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 32,
+      "name": "James Cooper",
+      "age": 21,
+      "major": "Economics",
+      "gpa": 3.2,
+      "gender": "Male"
+    },
+    {
+      "id": 33,
+      "name": "Sophia Adams",
+      "age": 20,
+      "major": "Sociology",
+      "gpa": 3.9,
+      "gender": "Female"
+    },
+    {
+      "id": 34,
+      "name": "Daniel Campbell",
+      "age": 22,
+      "major": "Mathematics",
+      "gpa": 3.5,
+      "gender": "Male"
+    },
+    {
+      "id": 35,
+      "name": "Ella Mitchell",
+      "age": 19,
+      "major": "Music",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 36,
+      "name": "Joseph Parker",
+      "age": 21,
+      "major": "History",
+      "gpa": 3.4,
+      "gender": "Male"
+    },
+    {
+      "id": 37,
+      "name": "Mia Green",
+      "age": 20,
+      "major": "Computer Engineering",
+      "gpa": 3.6,
+      "gender": "Female"
+    },
+    {
+      "id": 38,
+      "name": "Alexander Carter",
+      "age": 19,
+      "major": "English Language and Literature",
+      "gpa": 3.9,
+      "gender": "Male"
+    },
+    {
+      "id": 39,
+      "name": "Ella Turner",
+      "age": 22,
+      "major": "Physics",
+      "gpa": 3.7,
+      "gender": "Female"
+    },
+    {
+      "id": 40,
+      "name": "Christopher Cook",
+      "age": 21,
+      "major": "Chemical Engineering",
+      "gpa": 3.8,
+      "gender": "Male"
+    }
   ]
 }
