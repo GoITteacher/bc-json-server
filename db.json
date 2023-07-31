@@ -1,4 +1,276 @@
 {
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "about": "A classic novel exploring racial injustice and moral growth.",
+      "author": "Harper Lee",
+      "price": 15.99,
+      "amount": 50,
+      "genre": "Fiction"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "about": "A dystopian novel depicting a totalitarian society.",
+      "author": "George Orwell",
+      "price": 12.49,
+      "amount": 30,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "about": "A story of wealth, love, and tragedy set in the Roaring Twenties.",
+      "author": "F. Scott Fitzgerald",
+      "price": 11.99,
+      "amount": 40,
+      "genre": "Fiction"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "about": "A romance novel exploring societal expectations and love.",
+      "author": "Jane Austen",
+      "price": 9.99,
+      "amount": 60,
+      "genre": "Romance"
+    },
+    {
+      "id": 5,
+      "title": "The Lord of the Rings",
+      "about": "A high-fantasy epic following the quest to destroy the One Ring.",
+      "author": "J.R.R. Tolkien",
+      "price": 18.99,
+      "amount": 25,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "about": "The first book in the Harry Potter series, a tale of magic and friendship.",
+      "author": "J.K. Rowling",
+      "price": 13.99,
+      "amount": 70,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "about": "A coming-of-age novel exploring teenage angst and identity.",
+      "author": "J.D. Salinger",
+      "price": 10.99,
+      "amount": 45,
+      "genre": "Fiction"
+    },
+    {
+      "id": 8,
+      "title": "Brave New World",
+      "about": "A dystopian novel depicting a society ruled by technology and conformity.",
+      "author": "Aldous Huxley",
+      "price": 11.49,
+      "amount": 35,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 9,
+      "title": "The Hobbit",
+      "about": "A fantasy adventure of a hobbit's quest to reclaim treasure from a dragon.",
+      "author": "J.R.R. Tolkien",
+      "price": 9.99,
+      "amount": 55,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 10,
+      "title": "Jane Eyre",
+      "about": "A Gothic romance novel following the life of an orphaned governess.",
+      "author": "Charlotte Brontë",
+      "price": 12.99,
+      "amount": 30,
+      "genre": "Romance"
+    },
+    {
+      "id": 11,
+      "title": "Fahrenheit 451",
+      "about": "A dystopian novel exploring the consequences of book censorship.",
+      "author": "Ray Bradbury",
+      "price": 10.49,
+      "amount": 20,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "title": "Moby-Dick",
+      "about": "An epic tale of a captain's obsession with hunting a white whale.",
+      "author": "Herman Melville",
+      "price": 14.99,
+      "amount": 40,
+      "genre": "Fiction"
+    },
+    {
+      "id": 13,
+      "title": "The Picture of Dorian Gray",
+      "about": "A Gothic novel exploring the pursuit of eternal youth and beauty.",
+      "author": "Oscar Wilde",
+      "price": 11.99,
+      "amount": 25,
+      "genre": "Fiction"
+    },
+    {
+      "id": 14,
+      "title": "The Hunger Games",
+      "about": "A dystopian adventure of a young girl fighting for survival in a deadly competition.",
+      "author": "Suzanne Collins",
+      "price": 13.99,
+      "amount": 55,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 15,
+      "title": "Wuthering Heights",
+      "about": "A tragic romance set in the Yorkshire moors.",
+      "author": "Emily Brontë",
+      "price": 10.99,
+      "amount": 30,
+      "genre": "Romance"
+    },
+    {
+      "id": 16,
+      "title": "Animal Farm",
+      "about": "An allegorical novella depicting a farm's revolution against human owners.",
+      "author": "George Orwell",
+      "price": 9.49,
+      "amount": 40,
+      "genre": "Fiction"
+    },
+    {
+      "id": 17,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "about": "A fantasy adventure taking children to the magical world of Narnia.",
+      "author": "C.S. Lewis",
+      "price": 11.99,
+      "amount": 35,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 18,
+      "title": "Sense and Sensibility",
+      "about": "A romance novel exploring the contrasting characters of two sisters.",
+      "author": "Jane Austen",
+      "price": 10.99,
+      "amount": 50,
+      "genre": "Romance"
+    },
+    {
+      "id": 19,
+      "title": "The Shining",
+      "about": "A horror novel depicting a family's terrifying experiences in an isolated hotel.",
+      "author": "Stephen King",
+      "price": 13.99,
+      "amount": 20,
+      "genre": "Horror"
+    },
+    {
+      "id": 20,
+      "title": "The Alchemist",
+      "about": "A philosophical novel following a shepherd's quest for treasure.",
+      "author": "Paulo Coelho",
+      "price": 11.49,
+      "amount": 45,
+      "genre": "Fiction"
+    },
+    {
+      "id": 21,
+      "title": "The Handmaid's Tale",
+      "about": "A dystopian novel exploring a society with strict gender roles.",
+      "author": "Margaret Atwood",
+      "price": 12.99,
+      "amount": 30,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 22,
+      "title": "Dracula",
+      "about": "A Gothic horror novel depicting the vampire Count Dracula's attempt to move from Transylvania to England.",
+      "author": "Bram Stoker",
+      "price": 9.99,
+      "amount": 50,
+      "genre": "Horror"
+    },
+    {
+      "id": 23,
+      "title": "The Odyssey",
+      "about": "An ancient Greek epic following the adventures of Odysseus.",
+      "author": "Homer",
+      "price": 14.49,
+      "amount": 25,
+      "genre": "Fiction"
+    },
+    {
+      "id": 24,
+      "title": "The Girl with the Dragon Tattoo",
+      "about": "A crime thriller following a journalist and a hacker's investigation into a decades-old disappearance.",
+      "author": "Stieg Larsson",
+      "price": 13.49,
+      "amount": 35,
+      "genre": "Mystery"
+    },
+    {
+      "id": 25,
+      "title": "The Road",
+      "about": "A post-apocalyptic novel following a father and son's journey across a desolate landscape.",
+      "author": "Cormac McCarthy",
+      "price": 11.99,
+      "amount": 20,
+      "genre": "Fiction"
+    },
+    {
+      "id": 26,
+      "title": "The Count of Monte Cristo",
+      "about": "An adventure novel of revenge and redemption.",
+      "author": "Alexandre Dumas",
+      "price": 12.49,
+      "amount": 40,
+      "genre": "Fiction"
+    },
+    {
+      "id": 27,
+      "title": "A Song of Ice and Fire: A Game of Thrones",
+      "about": "A fantasy epic of political intrigue, war, and dragons.",
+      "author": "George R.R. Martin",
+      "price": 16.99,
+      "amount": 30,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 28,
+      "title": "Little Women",
+      "about": "A novel following the lives of four sisters during the Civil War.",
+      "author": "Louisa May Alcott",
+      "price": 9.99,
+      "amount": 55,
+      "genre": "Fiction"
+    },
+    {
+      "id": 29,
+      "title": "Crime and Punishment",
+      "about": "A psychological novel exploring the consequences of a crime.",
+      "author": "Fyodor Dostoevsky",
+      "price": 14.99,
+      "amount": 25,
+      "genre": "Fiction"
+    },
+    {
+      "id": 30,
+      "title": "The Book Thief",
+      "about": "A historical novel set during World War II, following a young girl's relationship with books.",
+      "author": "Markus Zusak",
+      "price": 10.99,
+      "amount": 35,
+      "genre": "Historical Fiction"
+    }
+  ],
   "quotes": [
     {
       "id": 1,
